@@ -1,4 +1,4 @@
-/* Alapvető stílusok */
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f0f2f5;
@@ -14,7 +14,6 @@ body {
     padding: 20px;
 }
 
-/* Header stílusok */
 header {
     background: linear-gradient(to right, #ff7e5f, #feb47b);
     color: #fff;
@@ -43,7 +42,6 @@ header {
     color: #ffd700;
 }
 
-/* Fő tartalom stílusok */
 main {
     margin-top: 40px;
 }
@@ -82,7 +80,7 @@ p {
     transform: scale(1.05);
 }
 
-/* Gomb stílusok */
+
 .btn-dark {
     background: linear-gradient(to right, #ff7e5f, #feb47b);
     border: none;
@@ -97,7 +95,6 @@ p {
     background: linear-gradient(to right, #feb47b, #ff7e5f);
 }
 
-/* Footer stílusok */
 footer {
     background: linear-gradient(to right, #ff7e5f, #feb47b);
     color: #fff;
